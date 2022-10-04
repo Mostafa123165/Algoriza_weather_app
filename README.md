@@ -3,6 +3,13 @@ Weather is a mobile application developed using Flutter. It supports both Androi
 
 Weather is a mobile application , Allow to the user know information about the weather 
 
+
+
+## Main packages used
+- [dio](https://pub.dev/packages/dio) to make integration with API
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc) as state management
+
+
 ## Folder structure
 
 ```
