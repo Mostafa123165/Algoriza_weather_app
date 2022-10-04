@@ -36,12 +36,15 @@ model
 
 ```
 network
-├── local├── dio_helper
+├── local
+├── dio_helper
 ```
 
 ```
 share
-├── style ├── themes ├── Colors
+├── style 
+├── themes 
+├── Colors
 ```
 
 
