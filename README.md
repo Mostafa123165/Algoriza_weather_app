@@ -1,4 +1,49 @@
-# weatherapp
+# Weather Application
+Weather is a mobile application developed using Flutter. It supports both Android and IOS.
+
+## Folder structure
+
+```
+Weather-App
+├── android
+├── assets
+├── build
+├── ios
+├── lib
+└── test
+```
+
+```
+lib
+├── BlockOpserver
+├── components
+├── home
+├── network
+├── share
+└── main.dart
+```
+
+```
+home
+├── Block
+├── home_Screen
+```
+
+```
+model
+├── weather-date
+```
+
+```
+network
+├── local├── dio_helper
+```
+
+```
+share
+├── style ├── themes ├── Colors
+```
+
 
 |<img src="https://user-images.githubusercontent.com/88462067/193930005-a31d9122-6b96-458b-aa96-05bae27382e2.jpg" width="300">|
 |<img src="https://user-images.githubusercontent.com/88462067/193930265-913c0cff-5f15-4c20-a3a0-25997cfe1fae.jpg" width="300">|
