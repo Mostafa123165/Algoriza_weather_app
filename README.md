@@ -1,6 +1,8 @@
 # Weather Application
 Weather is a mobile application developed using Flutter. It supports both Android and IOS.
 
+Weather is a mobile application , Allow to the user know information about the weather 
+
 ## Folder structure
 
 ```
